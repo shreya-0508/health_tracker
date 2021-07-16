@@ -1,0 +1,81 @@
+h2, h5, .reason{
+	border-style: solid;
+	border-color: white;
+	border-width: 3px;
+	padding: 20px;
+	font-family: 'Mitr', sans-serif;
+}
+p{
+	color: #E42F45;
+	padding: 10px;
+}
+h2{
+	text-align: center;
+}
+
+em{
+	font-size: 1rem;
+}
+.icon
+{
+    color: #E42F45;
+}
+#title
+{
+	background-color: #21243D;
+	font-family: 'PT Serif', serif;
+}
+.navbar-brand{
+	padding-left: 12px;
+	font-size: 1.1rem;
+}
+
+.nav-item{
+	border-style: none solid none none;
+	border-color: white;
+	border-width: 1.5px;
+	font-size: 22px;
+	padding: 5px;
+}
+
+#testimonial{
+	background-color: #FF7C7C;
+	text-align: center;
+}
+.testimonial-text{
+	border-style: none;
+	font-family: 'PT Serif', serif;
+}
+.testimonial-image1
+{
+    width: 45%;
+    border-radius: 100%;
+    margin: 20px 20px 0px 20px;
+}
+.testimonial-image
+{
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px 20px 26px 20px;
+}
+.carousel-item
+{
+    padding: 5% 15%;
+}
+
+#description{
+	background-color: #D8E9F0;
+	padding: 8% 13%;
+}
+#footer{
+	background-color: #21243D;
+	padding: 3% 15%;
+	text-align: center;
+}
+.ficon{
+	padding: 5px;
+	color: #E42F45;
+}
+.ficon:hover{
+	color: #EDF2F6;
+}

@@ -1,0 +1,149 @@
+body{
+    text-align: center;
+}
+em{
+	font-size: 1rem;
+}
+.container-fluid{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+/*title*/
+#title{
+	background-color: #21243D;
+	font-family: 'PT Serif', serif;
+}
+.navbar-brand{
+	padding-left: 12px;
+	font-size: 1.1rem;
+}
+.nav-item{
+	border-style: none solid none none;
+	border-color: white;
+	border-width: 1.5px;
+	font-size: 22px;
+	padding: 5px;
+}
+.title-image{
+    width: 45%;
+   
+    margin: 0px 250px 0px 20px;
+}
+
+/*introduction*/
+#introduction{
+    background-color: #D8E9F0;
+    padding: 3%;
+    padding-bottom: 7%;
+}
+#introduction h1{
+    padding: 10% 7%;
+}
+#introduction img{
+    top: 10%;
+    left: 30%;
+    position: relative;
+}
+
+/*features*/
+#features{
+    text-align: center;
+    background-color: #fff;
+    position: relative;
+    padding: 10% 5%;
+}
+.icon{
+    color: #E42F45;
+}
+h1{
+    color: #E42F45;
+    font-family: 'PT Serif', serif;
+}
+
+
+
+/*general*/
+#general{
+    background-color: #FF7C7C;
+    text-align: center;
+    padding-bottom: 3%;
+   
+}
+.general-image{
+    width: auto ;
+    height: 300px ;
+    border-radius: 50%;
+    margin-top: 1%;
+}
+.testimonial-text{
+	border-style: none;
+	font-family: 'PT Serif', serif;
+    padding: 20px;
+    padding-left: 10%;
+    padding-right: 3%;
+}
+.carousel-item
+{
+    padding: 5% 15% 2% ;
+}
+
+/*press*/
+#press{
+    background-color: #FF7C7C;
+	text-align: center;
+    padding: 3%;
+}
+.logo-image{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#pricing{
+    text-align: center;
+    padding: 5%;
+}
+.pricing-line{
+font-family: 'Mitr', sans-serif;
+}
+.card-body{
+    text-align: center;
+}
+#cta{
+    text-align: center;
+    background-color:#FF7C7C ;
+    margin-top:20px ;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    color: white;
+    
+}
+.btn{
+    margin-left: 10px;
+    margin-top:20px ;
+}
+
+.fas{
+    color:#E42F45 ;
+}
+
+/*footer*/
+#footer{
+	background-color: #21243D;
+	padding: 3% 15%;
+	text-align: center;
+}
+#footer p{
+	color: #E42F45;
+	padding: 10px;
+}
+.ficon{
+	padding: 5px;
+	color: #E42F45;
+}
+.ficon:hover{
+	color: #EDF2F6;
+}
